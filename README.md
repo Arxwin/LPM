@@ -4,7 +4,8 @@ Ce site avait pour objectif d'utiliser différentes pages HTML/CSS dans lesquell
 
 ## Fonctionnement
 > Accès au dossier complet du site web:
-  Cliquer sur **MON PRERMIER SITE INTERNET**: cela permet de voir comment le site a été fait.
+  - Cliquer sur **MON PRERMIER SITE INTERNET**: cela permet de voir comment le site a été fait.
+
 >Pour accéder au site web:
   1. Taper dans votre barre de recherche ou cliquez sur le lien suivant: **https://LPM.github.io**.
   2. Profiter du site un maximum !
