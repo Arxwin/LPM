@@ -7,6 +7,6 @@ Ce site se prénomme "LPM" et avait pour objectif d'utiliser différentes pages 
   - Vous pouvez parcourir tout les fichiers et dossiers **ci-dessus** pour voir comment le site a été conçu.
 
 >Pour accéder au site web:
-  1. Taper dans votre barre de recherche ou cliquez sur le lien suivant: **https://LPM.github.io**.
+  1. Taper dans votre barre de recherche ou cliquez sur le lien suivant: **https://arxwin.github.io/LPM/**.
   2. Profiter du site un maximum !
 
